@@ -1,6 +1,8 @@
-# DialAnyone - Source Available Phone Calling Platform
+100% Vibe Coded -- Everything below and all the code that you see is Vibe Coded (except this 1 line). 
 
-DialAnyone is a source-available phone calling platform that allows users to make calls from their browser to any phone number worldwide. This project uses Twilio for telephony services and Stripe for payment processing.
+# DialAnyone - Open Source Phone Calling Platform
+
+DialAnyone is a Open-Source phone calling platform that allows users to make calls from their browser to any phone number worldwide. This project uses Twilio for telephony services and Stripe for payment processing.
 
 ## Important License Information
 
