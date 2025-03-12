@@ -1,0 +1,115 @@
+[03-Mar-2025 13:26:33 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:26:33 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:27:25 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:27:25 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:33:18 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:33:18 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:44:45 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:44:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:44:57 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:44:57 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:04 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:04 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:11 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:17 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:52:17 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:56:11 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:56:11 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:56:16 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:56:16 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:58:45 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 13:58:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 14:00:09 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 14:00:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 14:05:40 Asia/Singapore] PHP Warning:  require_once(/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php): Failed to open stream: No such file or directory in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 14:05:40 Asia/Singapore] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/prishaia/praneetsah.com/api/payment/../../models/Package.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/praneetsah.com/api/payment/create-checkout.php on line 83
+[03-Mar-2025 14:33:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(109): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 14:38:45 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(109): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 14:39:03 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(109): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 14:39:09 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(109): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 14:42:39 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(121): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 14:42:48 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Package.php:18
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(121): getPackageById()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Package.php on line 18
+[03-Mar-2025 15:08:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Payment.php:623
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(243): recordCheckoutAttempt()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Payment.php on line 623
+[03-Mar-2025 15:08:44 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Payment.php:623
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(243): recordCheckoutAttempt()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Payment.php on line 623
+[03-Mar-2025 15:08:49 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Payment.php:623
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(243): recordCheckoutAttempt()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Payment.php on line 623
+[03-Mar-2025 15:08:56 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/prishaia/praneetsah.com/models/Payment.php:623
+Stack trace:
+#0 /home1/prishaia/praneetsah.com/api/payment/create-checkout.php(243): recordCheckoutAttempt()
+#1 {main}
+  thrown in /home1/prishaia/praneetsah.com/models/Payment.php on line 623

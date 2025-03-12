@@ -1,0 +1,4 @@
+[05-Mar-2025 06:17:00 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function getUserById() in /home1/prishaia/dialanyone.com/api/twilio/voice.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/prishaia/dialanyone.com/api/twilio/voice.php on line 45
