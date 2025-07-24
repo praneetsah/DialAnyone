@@ -1,0 +1,33 @@
+{
+  "canisters": {
+    "dialanyone_backend": {
+      "main": "src/dialanyone_backend/main.mo",
+      "type": "motoko"
+    },
+    "dialanyone_frontend": {
+      "dependencies": ["dialanyone_backend"],
+      "frontend": {
+        "entrypoint": "src/dialanyone_frontend/public/index.html"
+      },
+      "source": ["src/dialanyone_frontend/public", "dist/dialanyone_frontend"],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "",
+      "args": ""
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    },
+    "ic": {
+      "providers": ["https://api.ic0.app"],
+      "type": "persistent"
+    }
+  },
+  "version": 1
+}
